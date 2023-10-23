@@ -1,0 +1,390 @@
+[
+
+    {
+        "categoria":"tech",
+        "meta":[
+            {
+                "domanda": "Cos'è un sistema operativo?",
+                "rispostaCorretta": "Un software che gestisce le risorse hardware di un computer.",
+                "risposte": [
+                    "Un componente hardware essenziale di un computer.",
+                    "Un'applicazione per creare documenti di testo.",
+                    "Un tipo di linguaggio di programmazione."
+                ]
+            },
+            {
+                "domanda": "Cosa rappresenta l'acronimo 'CPU' nell'informatica?",
+                "rispostaCorretta": "Central Processing Unit",
+                "risposte": [
+                    "Computer Programming Unit",
+                    "Central Print Unit",
+                    "Control Panel Utility"
+                ]
+            },
+            {
+                "domanda": "Qual è un esempio di linguaggio di programmazione ad alto livello?",
+                "rispostaCorretta": "Python",
+                "risposte": [
+                    "HTML",
+                    "Assembly",
+                    "Binary"
+                ]
+            },
+            {
+                "domanda": "Cos'è un virus informatico?",
+                "rispostaCorretta": "Un software dannoso che può infettare e danneggiare un computer.",
+                "risposte": [
+                    "Un tipo di hardware per archiviare dati.",
+                    "Un'applicazione per proteggere il computer.",
+                    "Un linguaggio di programmazione avanzato."
+                ]
+            },
+            {
+                "domanda": "Cosa rappresenta 'URL' nell'informatica?",
+                "rispostaCorretta": "Uniform Resource Locator",
+                "risposte": [
+                    "Universal Record Listing",
+                    "User Registration Link",
+                    "Underlying Routing Language"
+                ]
+            },
+            {
+                "domanda": "Cos'è un firewall?",
+                "rispostaCorretta": "Un sistema di sicurezza informatica per proteggere una rete da accessi non autorizzati.",
+                "risposte": [
+                    "Un tipo di processore veloce.",
+                    "Un'applicazione per creare grafici.",
+                    "Un dispositivo per la stampa di documenti."
+                ]
+            },
+            {
+                "domanda": "Cosa significa 'HTML' nell'informatica?",
+                "rispostaCorretta": "Hypertext Markup Language",
+                "risposte": [
+                    "High-Level Text Messaging Language",
+                    "Hyperlink Transmission Methodology",
+                    "Human Technology Management Language"
+                ]
+            },
+            {
+                "domanda": "Cos'è un bit?",
+                "rispostaCorretta": "La più piccola unità di dati in un computer, può essere 0 o 1.",
+                "risposte": [
+                    "Un byte",
+                    "Un'immagine digitale",
+                    "Un linguaggio di programmazione"
+                ]
+            },
+            {
+                "domanda": "Cosa rappresenta 'LAN' nell'informatica?",
+                "rispostaCorretta": "Local Area Network",
+                "risposte": [
+                    "Large Access Node",
+                    "Long Algorithmic Notation",
+                    "Lowest Application Number"
+                ]
+            },
+            {
+                "domanda": "Cos'è l'archiviazione cloud?",
+                "rispostaCorretta": "L'archiviazione di dati su server remoti accessibili via Internet.",
+                "risposte": [
+                    "L'archiviazione di dati su dischi rigidi fisici.",
+                    "L'archiviazione di dati su carta stampata.",
+                    "L'archiviazione di dati tramite la scansione."
+                ]
+            }
+        ]
+
+
+    },
+    {
+        "categoria":"cultura_generale",
+        "meta":[
+            {
+                "domanda": "Quale è la capitale del Giappone?",
+                "rispostaCorretta": "Tokyo",
+                "risposte": [
+                    "Kyoto",
+                    "Osaka",
+                    "Seoul"
+                ]
+            },
+            {
+                "domanda": "Chi è l'autore del famoso dipinto 'La Gioconda'?",
+                "rispostaCorretta": "Leonardo da Vinci",
+                "risposte": [
+                    "Pablo Picasso",
+                    "Vincent van Gogh",
+                    "Michelangelo"
+                ]
+            },
+            {
+                "domanda": "Quale pianeta è noto come la 'Stella del Mattino' o la 'Stella della Sera'?",
+                "rispostaCorretta": "Venere",
+                "risposte": [
+                    "Marte",
+                    "Mercurio",
+                    "Giove"
+                ]
+            },
+            {
+                "domanda": "In quale paese si trova la Grande Muraglia?",
+                "rispostaCorretta": "Cina",
+                "risposte": [
+                    "India",
+                    "Giappone",
+                    "Corea del Sud"
+                ]
+            },
+            {
+                "domanda": "Qual è il fiume più lungo del mondo?",
+                "rispostaCorretta": "Il Nilo",
+                "risposte": [
+                    "L'Amazzonia",
+                    "Il Mississippi",
+                    "Il Danubio"
+                ]
+            },
+            {
+                "domanda": "Chi è l'autore della tragedia 'Romeo e Giulietta'?",
+                "rispostaCorretta": "William Shakespeare",
+                "risposte": [
+                    "Charles Dickens",
+                    "Jane Austen",
+                    "Mark Twain"
+                ]
+            },
+            {
+                "domanda": "Qual è il più grande deserto del mondo?",
+                "rispostaCorretta": "Il deserto dell'Antartide",
+                "risposte": [
+                    "Il deserto del Sahara",
+                    "Il deserto di Atacama",
+                    "Il deserto del Kalahari"
+                ]
+            },
+            {
+                "domanda": "Chi ha scritto 'Il Piccolo Principe'?",
+                "rispostaCorretta": "Antoine de Saint-Exupéry",
+                "risposte": [
+                    "Franz Kafka",
+                    "Leo Tolstoy",
+                    "Herman Melville"
+                ]
+            },
+            {
+                "domanda": "Qual è la lingua ufficiale del Brasile?",
+                "rispostaCorretta": "Il portoghese",
+                "risposte": [
+                    "L'inglese",
+                    "Lo spagnolo",
+                    "Il francese"
+                ]
+            },
+            {
+                "domanda": "Qual è il processo attraverso il quale le piante producono il loro cibo?",
+                "rispostaCorretta": "La fotosintesi",
+                "risposte": [
+                    "La respirazione",
+                    "La fermentazione",
+                    "La fotosintesi inversa"
+                ]
+            }
+        ]
+
+
+    },
+    {
+        "categoria":"ai",
+        "meta":[
+            {
+                "domanda": "Cos'è l'apprendimento automatico?",
+                "rispostaCorretta": "Un'area dell'IA che si occupa di far apprendere ai computer dai dati.",
+                "risposte": [
+                    "Un tipo di computer che apprende da solo.",
+                    "Un tipo di software che si installa automaticamente.",
+                    "Un algoritmo che non richiede dati per funzionare."
+                ]
+            },
+            {
+                "domanda": "Chi è considerato il padre dell'Intelligenza Artificiale?",
+                "rispostaCorretta": "Alan Turing",
+                "risposte": [
+                    "Elon Musk",
+                    "Isaac Newton",
+                    "Stephen Hawking"
+                ]
+            },
+            {
+                "domanda": "Cosa rappresenta 'AI' nell'ambito dell'Intelligenza Artificiale?",
+                "rispostaCorretta": "Artificial Intelligence",
+                "risposte": [
+                    "Advanced Interface",
+                    "Automated Invention",
+                    "Artistic Invention"
+                ]
+            },
+            {
+                "domanda": "Qual è uno dei principali obiettivi dell'AI?",
+                "rispostaCorretta": "Risolvere problemi complessi in modo automatico.",
+                "risposte": [
+                    "Sostituire completamente gli esseri umani.",
+                    "Creare solo applicazioni per il divertimento.",
+                    "Rendere le macchine più complicate."
+                ]
+            },
+            {
+                "domanda": "Cosa è il 'deep learning' nell'AI?",
+                "rispostaCorretta": "Una tecnica basata su reti neurali profonde per l'apprendimento automatico.",
+                "risposte": [
+                    "Un tipo di apprendimento superficiale.",
+                    "Una forma di apprendimento umano.",
+                    "Un software per creare presentazioni."
+                ]
+            },
+            {
+                "domanda": "Cosa sono le reti neurali artificiali?",
+                "rispostaCorretta": "Modelli matematici ispirati al funzionamento del cervello umano.",
+                "risposte": [
+                    "Circuiti elettrici complessi.",
+                    "Algoritmi di crittografia avanzata.",
+                    "Testi scritti da intelligenza artificiale."
+                ]
+            },
+            {
+                "domanda": "Cosa rappresenta 'NLP' nell'ambito dell'AI?",
+                "rispostaCorretta": "Natural Language Processing",
+                "risposte": [
+                    "New Language Protocol",
+                    "Non-Linear Programming",
+                    "Neural Learning Process"
+                ]
+            },
+            {
+                "domanda": "Cosa significa 'overfitting' in machine learning?",
+                "rispostaCorretta": "Quando un modello si adatta troppo ai dati di addestramento e non generalizza bene.",
+                "risposte": [
+                    "Quando un modello non impara abbastanza dai dati di addestramento.",
+                    "Quando un modello è perfetto in ogni aspetto.",
+                    "Quando i dati di addestramento sono troppo pochi."
+                ]
+            },
+            {
+                "domanda": "Cosa è l'etica nell'AI?",
+                "rispostaCorretta": "Un campo che si occupa delle questioni morali e sociali legate all'uso dell'AI.",
+                "risposte": [
+                    "Un algoritmo per migliorare l'efficienza aziendale.",
+                    "Una tecnica avanzata per la sicurezza informatica.",
+                    "Un nuovo linguaggio di programmazione."
+                ]
+            },
+            {
+                "domanda": "Cosa è l'apprendimento supervisionato?",
+                "rispostaCorretta": "Una tecnica di apprendimento automatico in cui il modello viene addestrato su dati etichettati.",
+                "risposte": [
+                    "Un'app che insegna alle persone a supervisionare il lavoro dei computer.",
+                    "Un metodo di apprendimento senza dati di addestramento.",
+                    "Un tipo di apprendimento in cui il modello insegna da solo."
+                ]
+            }
+        ]
+
+    },
+    {
+        "categoria":"lingue",
+        "meta":[
+            {
+                "domanda": "Quale lingua è più parlata nel mondo come lingua madre?",
+                "rispostaCorretta": "Il cinese mandarino",
+                "risposte": [
+                    "L'inglese",
+                    "Lo spagnolo",
+                    "L'arabo"
+                ]
+            },
+            {
+                "domanda": "Qual è l'alfabeto cirillico utilizzato principalmente?",
+                "rispostaCorretta": "L'alfabeto russo",
+                "risposte": [
+                    "L'alfabeto latino",
+                    "L'alfabeto arabo",
+                    "L'alfabeto greco"
+                ]
+            },
+            {
+                "domanda": "Qual è la lingua ufficiale dell'Argentina?",
+                "rispostaCorretta": "Lo spagnolo",
+                "risposte": [
+                    "Il portoghese",
+                    "L'italiano",
+                    "Il francese"
+                ]
+            },
+            {
+                "domanda": "Quante vocali ci sono nella lingua italiana?",
+                "rispostaCorretta": "5",
+                "risposte": [
+                    "3",
+                    "7",
+                    "9"
+                ]
+            },
+            {
+                "domanda": "Qual è la lingua ufficiale del Marocco?",
+                "rispostaCorretta": "L'arabo",
+                "risposte": [
+                    "Il francese",
+                    "Il berbero",
+                    "L'inglese"
+                ]
+            },
+            {
+                "domanda": "Cosa rappresenta l'acronimo 'ESL' nell'apprendimento delle lingue?",
+                "rispostaCorretta": "English as a Second Language",
+                "risposte": [
+                    "European Study Language",
+                    "Effective Speech Learning",
+                    "Easy Syntax Lesson"
+                ]
+            },
+            {
+                "domanda": "Quale lingua è conosciuta come 'la lingua degli angeli'?",
+                "rispostaCorretta": "Il latino",
+                "risposte": [
+                    "L'arabo",
+                    "L'inglese",
+                    "Il sanscrito"
+                ]
+            },
+            {
+                "domanda": "Qual è la lingua ufficiale dell'Australia?",
+                "rispostaCorretta": "L'inglese",
+                "risposte": [
+                    "L'aborigeno",
+                    "Il francese",
+                    "Il tedesco"
+                ]
+            },
+            {
+                "domanda": "Cosa rappresenta l'acronimo 'ASL' nell'apprendimento delle lingue?",
+                "rispostaCorretta": "American Sign Language",
+                "risposte": [
+                    "Asian Script Learning",
+                    "Advanced Speaking Lesson",
+                    "African Syntax Lexicon"
+                ]
+            },
+            {
+                "domanda": "Qual è la lingua più diffusa come seconda lingua nel mondo?",
+                "rispostaCorretta": "L'inglese",
+                "risposte": [
+                    "Il cinese",
+                    "Lo spagnolo",
+                    "Il francese"
+                ]
+            }
+        ]
+
+    }
+
+]
