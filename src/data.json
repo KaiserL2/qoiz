@@ -385,6 +385,62 @@
             }
         ]
 
-    }
+    },
+    {
+        "categoria": "Capitali",
+        "meta": [
+          {
+            "domanda": "Capitale dell'Estonia",
+            "rispostaCorretta": "Tallinn",
+            "risposte": ["Kabul", "Tripoli", "Baku"]
+          },
+          {
+            "domanda": "Capitale della Mongolia",
+            "rispostaCorretta": "Ulan Bator",
+            "risposte": ["Pechino", "Astana", "Bangkok"]
+          },
+          {
+            "domanda": "Capitale del Botswana",
+            "rispostaCorretta": "Gaborone",
+            "risposte": ["Lusaka", "Kigali", "Nairobi"]
+          },
+          {
+            "domanda": "Capitale della Bolivia",
+            "rispostaCorretta": "La Paz",
+            "risposte": ["Quito", "Sucre", "Asunción"]
+          },
+          {
+            "domanda": "Capitale del Lesotho",
+            "rispostaCorretta": "Maseru",
+            "risposte": ["Pretoria", "Windhoek", "Harare"]
+          },
+          {
+            "domanda": "Capitale dell'Armenia",
+            "rispostaCorretta": "Erevan",
+            "risposte": ["Tbilisi", "Baku", "Ankara"]
+          },
+          {
+            "domanda": "Capitale del Nepal",
+            "rispostaCorretta": "Kathmandu",
+            "risposte": ["Lhasa", "Thimphu", "New Delhi"]
+          },
+          {
+            "domanda": "Capitale dell'Islanda",
+            "rispostaCorretta": "Reykjavik",
+            "risposte": ["Helsinki", "Oslo", "Dublino"]
+          },
+          {
+            "domanda": "Capitale della Cambogia",
+            "rispostaCorretta": "Phnom Penh",
+            "risposte": ["Vientiane", "Naypyidaw", "Manila"]
+          },
+          {
+            "domanda": "Capitale della Romania",
+            "rispostaCorretta": "Bucarest",
+            "risposte": ["Sofia", "Belgrado", "Chisinau"]
+          }
+        ]
+      }
+
 
 ]

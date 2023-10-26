@@ -62,8 +62,9 @@ export default function Home() {
                           <SelectGroup>
                           <SelectItem  value="0">Tech</SelectItem>
                           <SelectItem value="1">Cultura generale</SelectItem>
-                          <SelectItem value="2">Lingue</SelectItem>
-                          <SelectItem value="3">Ai</SelectItem>
+                          <SelectItem value="2">Ai</SelectItem>
+                          <SelectItem value="3">Lingue</SelectItem>
+                          <SelectItem value="4">Capitali</SelectItem>
                           </SelectGroup>
                         </SelectContent>
                       </Select>
